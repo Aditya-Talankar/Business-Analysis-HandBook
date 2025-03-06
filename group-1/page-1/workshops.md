@@ -10,7 +10,7 @@ description: >-
 * [ ] Identify key stack-holders
 * [ ] Assign roles : facilitator, scribe, timekeeper
 * [ ] Create an agenda
-* [ ] Arrange logistics&#x20;
+* [ ] Arrange logistics
 * [ ] Sent pre-workshop material
 * [ ] Conduct the workshop
 * [ ] Post-workshop followup
@@ -148,4 +148,3 @@ Before the workshop, the Business Analyst (BA) or organizer should:
 * A prioritized list of features for the mobile banking app.
 * Detailed requirements for the top 3 features.
 * Assigned action items for follow-up.
-

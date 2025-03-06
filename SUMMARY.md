@@ -1,7 +1,9 @@
 # Table of contents
 
-* [Survey & Questionnaire](README.md)
-* [User Stories](user-stories.md)
-* [Use Cases and Scenarios](use-cases-and-scenarios.md)
-* [Workshops](workshops/README.md)
-  * [Page 1 test](workshops/page-1-test.md)
+## Group 1
+
+* [Page 1](README.md)
+  * [Survey & Questionnaire](group-1/page-1/readme.md)
+  * [Use Cases and Scenarios](group-1/page-1/use-cases-and-scenarios.md)
+  * [Workshops](group-1/page-1/workshops.md)
+  * [User Stories](group-1/page-1/user-stories.md)
