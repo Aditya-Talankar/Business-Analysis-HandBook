@@ -12,7 +12,10 @@
 ***
 
 * [Analysis and Modeling Techniques](analysis-and-modeling-techniques.md)
-* [Strategic Planning and Business Analysis](strategic-planning-and-business-analysis.md)
+* [Strategic Planning and Business Analysis](strategic-planning-and-business-analysis/README.md)
+  * [SWOT Analysis](strategic-planning-and-business-analysis/swot-analysis.md)
+  * [MOST Analysis](strategic-planning-and-business-analysis/most-analysis/README.md)
+    * [Page 1](strategic-planning-and-business-analysis/most-analysis/page-1.md)
 * [Requirements Management](requirements-management.md)
 * [Data Management](data-management.md)
 * [Decision Making and Risk Management](decision-making-and-risk-management.md)
